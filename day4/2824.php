@@ -1,7 +1,7 @@
 <?php
 
 $nums = array(-6,2,5,-2,-7,-1,3);
-$terget=-2
+$terget=-2;
 
  $ans = 0;
 for($i = 0; $i < count($nums); ++$i){
